@@ -2,7 +2,7 @@
 
 ### Shared Library
 
-## Isrotel.Framework
+## Custom Dotnet Core 8 infrastructure (framework)
 It contains next sections:
 - Cache - contains Redis and memory cache classes
 - Configuration - contains configuration classes, such as AppSettings, ConnectionStrings, etc.
